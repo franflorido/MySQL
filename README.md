@@ -25,7 +25,7 @@ In this Repositorie you will find 10 basic and 10 advanced querys about a facult
 
 10-List the names of all students in alphabetical order. If said studenthad another student enrolled exactly at the same time as him, show thename of this second student next to      him
 
--Description of the advanced querys. You will find the solution in SENTENCIAS_ADVANCED.sql-
+- Description of the advanced querys. You will find the solution in SENTENCIAS_ADVANCED.sql-
 
 
 1- Show the code of the subjects taught by Professor Manuel Enciso, using asubquery.
